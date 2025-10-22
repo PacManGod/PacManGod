@@ -1,6 +1,6 @@
 # Hi 👋, I'm Paul Moreno
 
-### A passionate Java developer
+### A passionate Web Developer
 
 - 🔭 I'm currently working on **a Cooinpaz project and WCC project**
 
